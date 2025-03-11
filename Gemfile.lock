@@ -45,6 +45,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-23
 
 DEPENDENCIES
   addressable (~> 2.8.6)
